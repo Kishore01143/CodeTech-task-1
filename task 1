@@ -1,4 +1,9 @@
 
+/* TASK ONE: LED BLINKING WITH ARDUINO
+
+Program an Arduino board to blink an LED at a specific interval. This project
+introduces basic embedded programming concepts and interfacing with
+hardware. */
 
 
 
