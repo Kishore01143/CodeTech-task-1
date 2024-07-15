@@ -11,7 +11,7 @@
 
 **Duration:** JUL to AUG 2024
 
-**Mentor:** SHAVANI GOUNI
+**Mentor:** N. SANTHOSH KUMAR
 
 
 ## Overview of the Project
