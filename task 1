@@ -7,11 +7,11 @@ hardware. */
 
 
 
-Void Setup()
+void setup()
 {
 pinMode(13,OUTPUT);
 }
-Void loop()
+void loop()
 { 
 digitalWrite(13, HIGH);
 delay(1000);
