@@ -35,4 +35,4 @@ Blinking an LED is an introductory Arduino project in which we control an LED us
 1. c programmimg languages
 2. c++  programmimg languages
 3. embedded c
-4. standard API(arduino programming language)
+4. standard APL(arduino programming language)
