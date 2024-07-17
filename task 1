@@ -5,8 +5,6 @@ Program an Arduino board to blink an LED at a specific interval. This project
 introduces basic embedded programming concepts and interfacing with
 hardware. */
 
-
-
 void setup()
 {
 pinMode(13,OUTPUT);
